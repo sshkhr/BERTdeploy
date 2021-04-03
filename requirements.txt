@@ -1,9 +1,7 @@
 fastapi
-django
-rest_framework
 uvicorn
 pydantic
+numpy>=1.17.1
 torch
 transformers
-
 pytest
