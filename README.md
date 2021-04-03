@@ -34,6 +34,7 @@ You'll get an output like:
 ## TO-DO
 
 * Deploy on Heroku - will need to find a workaround for downloading pre-trained models since Heroku's file system is ephemeral
+* Add tests for API calls
 
 
 ## References
