@@ -1,0 +1,3 @@
+#!/bin/bash
+
+uvicorn DistilBERT.api:app

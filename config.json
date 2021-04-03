@@ -1,0 +1,7 @@
+{
+    "CLASS_NAMES": [
+        "negative",
+        "positive"
+    ],
+    "MAX_TOKENS_LEN": 160
+}

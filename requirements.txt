@@ -1,0 +1,9 @@
+fastapi
+django
+rest_framework
+uvicorn
+pydantic
+torch
+transformers
+
+pytest
